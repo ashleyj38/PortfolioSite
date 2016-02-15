@@ -5,9 +5,13 @@ body, .jumbotron {
 .jumbotron {
 	color: white;
 	font-family: 'Lobster', cursive;
+	text-shadow: 2px 2px #000;
 }
-.main-content {
-	background-image: "../images/artistic_header2.jpg";
+
+.code-photo {
+	
+	height: 300px;
+	width: 350px;
 }
 
 .about, .main-content h1 {
@@ -31,4 +35,6 @@ body, .jumbotron {
 .page-header {
 	text-decoration:none;
 }
+
+
 
