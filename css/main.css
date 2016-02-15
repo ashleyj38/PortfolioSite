@@ -36,5 +36,12 @@ body, .jumbotron {
 	text-decoration:none;
 }
 
+.main-content .art, .main-content .code, .main-content .blog {
+	background-color: white;
+	height: 550px;
+}
 
-
+.line {
+	width: 350px;
+	padding-left: 10px;
+}
