@@ -1,0 +1,34 @@
+body, .jumbotron {
+	background-color: #E9D9FC;
+}
+
+.jumbotron {
+	color: white;
+	font-family: 'Lobster', cursive;
+}
+.main-content {
+	background-image: "../images/artistic_header2.jpg";
+}
+
+.about, .main-content h1 {
+	text-align: center;
+}
+
+.profile-pic {
+	height: 220px;
+	width: 200px;
+	border-radius: 50%;
+	border-style: solid;
+	border-color: white;
+	border-width: 10px;
+}
+
+.thumbnail {
+	height: 75px;
+	width: 60px;
+}
+
+.page-header {
+	text-decoration:none;
+}
+
